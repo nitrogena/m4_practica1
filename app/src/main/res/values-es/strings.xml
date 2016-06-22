@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Práctica1 Calculadora</string>
+    <string name="amain_hint_ingresar">Ingresar</string>
+    <string name="amain_bt_dividir">Dividir</string>
+    <string name="amain_bt_multiplicar">Multiplicar</string>
+    <string name="amain_bt_restar">Restar</string>
+    <string name="amain_bt_sumar">Sumar</string>
+</resources>

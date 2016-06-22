@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice 1 Calculator</string>
+    <string name="amain_tv_texto">Calculator</string>
+    <string name="amain_hint_ingresar">Number</string>
+    <string name="amain_bt_dividir">Division</string>
+    <string name="amain_bt_multiplicar">Multiply</string>
+    <string name="amain_bt_restar">Subtract</string>
+    <string name="amain_bt_sumar">Add</string>
+</resources>
