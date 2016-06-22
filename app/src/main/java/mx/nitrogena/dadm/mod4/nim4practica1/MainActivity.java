@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.amain_bt_multiplicar).setOnClickListener(this);
         findViewById(R.id.amain_bt_restar).setOnClickListener(this);
         findViewById(R.id.amain_bt_sumar).setOnClickListener(this);
+        findViewById(R.id.amain_bt_limpiar).setOnClickListener(this);
 
 
 
@@ -117,7 +118,15 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.amain_bt_igual:
                 obtenerResultado();
                 break;
+            case R.id.amain_bt_limpiar:
+                limpiar();
+                break;
         }
+    }
+
+    private void limpiar() {
+        etNumero.setText("");
+        etResultado.setText("");
     }
 
     private void restar() {

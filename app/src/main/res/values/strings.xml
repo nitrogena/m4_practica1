@@ -6,4 +6,5 @@
     <string name="amain_bt_multiplicar">Multiply</string>
     <string name="amain_bt_restar">Subtract</string>
     <string name="amain_bt_sumar">Add</string>
+    <string name="amain_bt_limpiar">Limpiar</string>
 </resources>
