@@ -14,13 +14,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/amain_tv_texto" />
-    <EditText
-        android:id="@+id/amain_et_numero"
+    <TextView
+        android:id="@+id/amain_tv_numero"
         android:hint="@string/amain_hint_ingresar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
-    <EditText
-        android:id="@+id/amain_et_resultado"
+    <TextView
+        android:id="@+id/amain_tv_resultado"
         android:hint="total"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
